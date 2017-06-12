@@ -9,4 +9,4 @@ this repository contains my assignments
 
 [assignment week 6](https://github.com/GideonWijdeven/Assignments-/blob/master/assignment4%20(2).ipynb)
 
-[Final assignment](https://github.com/GideonWijdeven/Assignments-/blob/master/Final_Assignment_Python_1_students.ipynb)
+[Final python assignment](https://github.com/GideonWijdeven/Assignments-/blob/master/Final_Assignment_Python_1_students.ipynb)
